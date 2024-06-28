@@ -42,9 +42,10 @@ The video tutorial aims to provide end-users with step-by-step guidance on how t
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. Reviewed the current raw demonstration clips and marked which needed to be updated to showcase changes in the software and hardware.
+1. Reviewed the voice over drafts, and created edited scripts to account for changes in the software package.
+1. Organized the raw demonstration clips into sections that facilitate easy access, each script is attached to each video
+2. Recorded surgical planning tutorial of new software workflow, modeling optimal workflow and how to use the software.
 
 # Illustrations
 
@@ -56,4 +57,6 @@ The video tutorial aims to provide end-users with step-by-step guidance on how t
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository.
-     If possible, also add links to sample data, and to any relevant publications. -->
+     If possible, also add links to sample data, and to any relevant publications. --><img width="1725" alt="Screenshot 2024-06-27 at 5 44 31 PM" src="https://github.com/NA-MIC/ProjectWeek/assets/97124830/a0dca112-1869-4404-8296-7b94cad2b6fa">
+<img width="1725" alt="Screenshot 2024-06-27 at 5 44 31 PM" src="https://github.com/NA-MIC/ProjectWeek/assets/97124830/a0dca112-1869-4404-8296-7b94cad2b6fa">
+<img width="1911" alt="Screenshot 2024-06-27 at 5 43 45 PM" src="https://github.com/NA-MIC/ProjectWeek/assets/97124830/fdc01b5e-9197-4b25-8953-1ad41619fd9f">
